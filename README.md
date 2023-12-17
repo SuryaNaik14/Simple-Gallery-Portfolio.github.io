@@ -4,4 +4,4 @@
 ![Screenshot (82)](https://github.com/SuryaNaik14/Simple-Gallery-Portfolio.github.io/assets/153983505/92dc55b4-6b2d-4538-a7c4-0ea36f188d56)
 ![Screenshot (83)](https://github.com/SuryaNaik14/Simple-Gallery-Portfolio.github.io/assets/153983505/28a43f97-3004-407d-9358-7da554737afb)
 
-Simple-Gallery-Portfolio is a simple staic responsive website build by using display grid concept.
+Simple-Gallery-Portfolio is a simple static responsive website build by using display grid concept.
